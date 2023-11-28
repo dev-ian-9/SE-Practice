@@ -1,2 +1,2 @@
 # SE-Practice
-Repo for practice code.
+Repo for code practice.
