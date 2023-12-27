@@ -1,0 +1,7 @@
+{
+    "runtimeLevel" : "debug",
+	"reardamagecheck_file" : "input_rearglasscondition\\RearDamage_Check.xlsx",
+	"testreport_file" : "input_testreport\\Test Report_JP_24_11_12_2023.xlsx",
+	"paramreport_file" : "input_paramreport\\REV Parametric Report_JP_24_11_12_2023.xlsx",
+	"unitinfojson_folder" : "input_unitinfojson"
+}
